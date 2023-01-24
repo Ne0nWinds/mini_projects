@@ -15,7 +15,7 @@ Features include:
 A recreation of an old hackathon project in C and OpenGL
 
 Features include:
-- Draw calls using intancing ([main.c](https://github.com/Ne0nWinds/mini_projects/blob/87c5fe29af2f65ad6b9e61c9bab90e47a3e84962/bomberman/main.c#L511))
+- Draw calls using instancing ([main.c](https://github.com/Ne0nWinds/mini_projects/blob/87c5fe29af2f65ad6b9e61c9bab90e47a3e84962/bomberman/main.c#L511))
 - Controller input with Xinput ([main.c](https://github.com/Ne0nWinds/mini_projects/blob/87c5fe29af2f65ad6b9e61c9bab90e47a3e84962/bomberman/main.c#L411))
 - Smoothed collision detection ([main.c](https://github.com/Ne0nWinds/mini_projects/blob/87c5fe29af2f65ad6b9e61c9bab90e47a3e84962/bomberman/main.c#L468))
 - Texture atlasing
