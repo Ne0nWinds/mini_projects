@@ -1,0 +1,5 @@
+-xc
+-IGLAD\include
+-msse4
+-Wno-incompatible-pointer-types
+-DDEBUG

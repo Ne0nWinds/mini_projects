@@ -1,0 +1,1 @@
+clang -O2 -ffast-math -mavx2 win32_main.c win32_memory.c game.c renderer.c win32_fileio.c benchmark.c GLAD\src\glad.c -IGLAD\include -luser32 -lopengl32 -lgdi32 -Wno-incompatible-pointer-types -o .\build\a.exe -DDEBUG
