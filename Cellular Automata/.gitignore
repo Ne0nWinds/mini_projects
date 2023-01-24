@@ -1,0 +1,3 @@
+build/a.*
+glad/
+build/shaders/*.spv
