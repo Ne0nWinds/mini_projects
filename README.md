@@ -12,7 +12,7 @@ Features include:
 ![particle_physics_engine](https://user-images.githubusercontent.com/36315399/214190011-41ea9ed7-99f3-4498-865f-0857a2239d9f.gif)
 
 ## Bomberman
-A recreation of an old hackaton project in C and OpenGL
+A recreation of an old hackathon project in C and OpenGL
 
 Features include:
 - Draw calls using intancing ([main.c](https://github.com/Ne0nWinds/mini_projects/blob/87c5fe29af2f65ad6b9e61c9bab90e47a3e84962/bomberman/main.c#L511))
