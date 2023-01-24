@@ -19,3 +19,11 @@ Features include:
 - Texture atlasing
 
 ![PXL_20221210_020541410_1__AdobeExpress](https://user-images.githubusercontent.com/36315399/214193011-a7483bb7-7245-4d04-8629-74a4878b2f5b.gif)
+
+## Cellular Automata Engine
+A project similar to [John Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) to learn about OpenGL compute shaders
+Features include:
+- A compute shader that reads / writes to a texture ([compute.glsl](https://github.com/Ne0nWinds/mini_projects/blob/master/Cellular%20Automata/build/shaders/compute.glsl))
+- SPIR-V compilation ([win32_main.c](https://github.com/Ne0nWinds/mini_projects/blob/97541c1116be05b7e1efd3b0a2da420a781bfc8e/Cellular%20Automata/win32_main.c#L106))
+
+![PXL_20230104_061257522_1__AdobeExpress](https://user-images.githubusercontent.com/36315399/214195269-3ab35781-031e-474a-b5f7-60aaba2d44b6.gif)
