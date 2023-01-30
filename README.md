@@ -11,6 +11,16 @@ Features include:
 
 ![particle_physics_engine](https://user-images.githubusercontent.com/36315399/214190011-41ea9ed7-99f3-4498-865f-0857a2239d9f.gif)
 
+## lowleveldev.io
+A WebAssembly C compiler that runs in the browser (incomplete)
+
+Features include:
+- Compiles a number of C features including variables, if statements, loops, functions, recursion, etc. ([main.js](https://github.com/Ne0nWinds/lowleveldev.io/blob/808e33023c18227827be5568a8fde3d0c1fb7eea/main.js#L54))
+- Compiles directly to WebAssembly binary format ([code_gen.c](https://github.com/Ne0nWinds/lowleveldev.io/blob/master/src/code_gen.c))
+- Fast memory allocation with custom bump / block allocators ([parser.c](https://github.com/Ne0nWinds/lowleveldev.io/blob/808e33023c18227827be5568a8fde3d0c1fb7eea/src/parser.c#L162))
+
+![image](https://user-images.githubusercontent.com/36315399/215373495-d2c55d53-96db-4a0c-b2e1-6b431551f6b3.png)
+
 ## Bomberman
 A recreation of an old hackathon project in C and OpenGL
 
